@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "PersonalTweaks",
+  "name": "Personal Tweaks",
+  "description": "Various tweaks of vanilla and mods to taste.",
+  "authors": [
+    "SheTsu"
+  ],
+  "version": "1.0.0",
+  "dependencies": {
+    "moldsplus": "1.0.2"
+  }
+}

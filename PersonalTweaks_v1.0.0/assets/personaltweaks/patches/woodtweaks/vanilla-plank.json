@@ -1,0 +1,16 @@
+[
+    {
+        "file": "game:recipes/grid/plank.json",
+        "op": "replace",
+        "path": "/0/output/quantity",
+        "side": "Server",
+        "value": 48
+    },
+    {
+        "file": "game:recipes/grid/plank.json",
+        "op": "replace",
+        "path": "/1/output/quantity",
+        "side": "Server",
+        "value": 48
+    }
+]

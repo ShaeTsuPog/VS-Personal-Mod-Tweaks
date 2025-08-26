@@ -1,0 +1,30 @@
+[
+    {
+        "file": "floralzonescaperegion:recipes/grid/wood/plank.json",
+        "op": "replace",
+        "path": "/0/output/quantity",
+        "side": "Server",
+        "value": 48
+    },
+    {
+        "file": "floralzonescaperegion:recipes/grid/wood/plank.json",
+        "op": "replace",
+        "path": "/1/output/quantity",
+        "side": "Server",
+        "value": 48
+    },
+    {
+        "file": "floralzonescaribbeanregion:recipes/grid/wood/plank.json",
+        "op": "replace",
+        "path": "/0/output/quantity",
+        "side": "Server",
+        "value": 48
+    },
+    {
+        "file": "floralzonescaribbeanregion:recipes/grid/wood/plank.json",
+        "op": "replace",
+        "path": "/1/output/quantity",
+        "side": "Server",
+        "value": 48
+    }
+]

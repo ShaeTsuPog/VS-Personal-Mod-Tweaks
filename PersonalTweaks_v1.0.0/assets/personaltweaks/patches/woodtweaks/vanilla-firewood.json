@@ -1,0 +1,30 @@
+[
+    {
+        "file": "game:recipes/grid/firewood.json",
+        "op": "replace",
+        "path": "/0/output/quantity",
+        "side": "Server",
+        "value": 30
+    },
+    {
+        "file": "game:recipes/grid/firewood.json",
+        "op": "replace",
+        "path": "/1/output/quantity",
+        "side": "Server",
+        "value": 30
+    },
+    {
+        "file": "game:recipes/grid/firewood.json",
+        "op": "replace",
+        "path": "/2/output/quantity",
+        "side": "Server",
+        "value": 30
+    },
+    {
+        "file": "game:recipes/grid/firewood.json",
+        "op": "replace",
+        "path": "/3/output/quantity",
+        "side": "Server",
+        "value": 26
+    }
+]

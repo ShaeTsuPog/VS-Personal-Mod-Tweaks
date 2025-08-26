@@ -1,0 +1,16 @@
+[
+    {
+        "file": "game:itemtypes/resource/crushed/lime.json",
+        "op": "addmerge",
+        "path": "/attributes/isFlux",
+        "value": "true"
+    },
+    {
+        "file": "game:itemtypes/resource/crushed/crushed.json",
+        "op": "addmerge",
+        "path": "/attributes/isFluxByType",
+        "value": {
+            "crushed-quartz": true
+        }
+    }
+]
