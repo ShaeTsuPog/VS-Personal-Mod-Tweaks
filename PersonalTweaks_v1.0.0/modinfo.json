@@ -4,10 +4,11 @@
   "name": "Personal Tweaks",
   "description": "Various tweaks of vanilla and mods to taste.",
   "authors": [
-    "SheaTsu"
+    "ShaeTsu"
   ],
   "version": "1.0.0",
   "dependencies": {
     "moldsplus": "1.0.2"
   }
 }
+
